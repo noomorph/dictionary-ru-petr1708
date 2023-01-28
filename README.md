@@ -5,7 +5,7 @@ Russian (Petrine 1708 orthography) spelling dictionary.
 ## What is this?
 
 This is a spelling dictionary of the Russian language in the Petrine 1708 orthography.
-It is based on the [package](http://slavenica.com/za/?za=ru-petr1708-hunspell-3.1.tar.bz2) provided by [Slavenica](https://slavenica.com),
+It is based on the [package](http://slavenica.com/za/?za=ru-petr1708-hunspell-3.1.tar.bz2) provided by [Slavenica](http://slavenica.com),
 normalized and packaged so that it can be installed and used like other dictionaries.
 
 ## When should I use this?
@@ -29,7 +29,7 @@ import dictionaryRuPetr1708 from 'dictionary-ru-petr-1708'
 dictionaryRuPetr1708(function (error, ru1708) {
   if (error) throw error
   console.log(ru1708)
-  // To do: use `ru` somehow
+  // To do: use `ru1708` somehow
 })
 ```
 
