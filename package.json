@@ -25,5 +25,8 @@
     "index.aff",
     "index.dic",
     "index.d.ts"
-  ]
+  ],
+  "devDependencies": {
+    "semantic-release": "^20.1.0"
+  }
 }
