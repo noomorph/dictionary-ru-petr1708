@@ -2,7 +2,7 @@
   "name": "dictionary-ru-petr1708",
   "version": "1.0.0",
   "description": "Russian (Petrine 1708 orthography) spelling dictionary",
-  "license": "CC-BY-SA-3.0",
+  "license": "MIT",
   "keywords": [
     "spelling",
     "myspell",
