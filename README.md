@@ -1,4 +1,4 @@
-# dictionary-ru-petr-1708
+# dictionary-ru-petr1708
 
 Russian (Petrine 1708 orthography) spelling dictionary.
 
@@ -18,13 +18,13 @@ You can use this package when integrating with tools that perform spell checking
 In Node.js (version 14.14+, 16+ or 18+), install with [npm]:
 
 ```sh
-npm install dictionary-ru-petr-1708
+npm install dictionary-ru-petr1708
 ```
 
 ## Use
 
 ```js
-import dictionaryRuPetr1708 from 'dictionary-ru-petr-1708'
+import dictionaryRuPetr1708 from 'dictionary-ru-petr1708'
 
 dictionaryRuPetr1708(function (error, ru1708) {
   if (error) throw error
@@ -52,11 +52,11 @@ This package is typed with [TypeScript][].
 
 ## Contribute
 
-Please [open an issue](https://github.com/noomorph/dictionary-ru-petr-1708/issues/new) on GitHub.
+Please [open an issue](https://github.com/noomorph/dictionary-ru-petr1708/issues/new) on GitHub.
 
 ## License
 
-Dictionary and affix file: [MIT](https://github.com/noomorph/dictionary-ru-petr-1708/blob/main/LICENSE).
+Dictionary and affix file: [MIT](https://github.com/noomorph/dictionary-ru-petr1708/blob/main/LICENSE).
 Rest: [MIT][] © [Titus Wormer][home].
 
 [hunspell]: https://hunspell.github.io
